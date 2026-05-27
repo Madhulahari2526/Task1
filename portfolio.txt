@@ -1,0 +1,5 @@
+Stock Portfolio Summary
+-------------------------
+Stock: TSLA, Quantity: 250, Value: $62500
+
+Total Investment Value: $62500
